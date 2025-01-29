@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="fetch_list_string">"ID: %d, ListID: %d, Name: %s</string>
+</resources>
